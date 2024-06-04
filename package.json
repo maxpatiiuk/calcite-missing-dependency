@@ -1,0 +1,10 @@
+{
+  "name": "calcite-missing-dependency",
+  "private": true,
+  "dependencies": {
+    "@esri/calcite-components": "^2.9.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
